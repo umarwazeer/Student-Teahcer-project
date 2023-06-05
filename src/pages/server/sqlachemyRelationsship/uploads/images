@@ -1,0 +1,2 @@
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////home/umarkhan/python projects/sqlachemyRelationsship/data.db'  # Replace with your MySQL connection details
+engine = create_engine("sqlite:///data.db")
